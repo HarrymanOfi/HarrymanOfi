@@ -2,7 +2,7 @@
 - 🔭 Ex estudante do Cotemig 
 - 🎓 Formado em Tecnologia da Informação no Cotemig. 
 - 📖 Cursando Ciência da Computação
-- 📧 Você pode facilmente entrar em contato pelo e-mail: (rafaelsoares0501@gmail.com)
+- 📧 Você pode facilmente entrar em contato pelo e-mail: [I'm an inline-style link](https://www.google.com)
 
 
 <!--
