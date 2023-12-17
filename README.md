@@ -1,4 +1,8 @@
-### Hi there 👋
+### Eae! Me chamo Rafael Soares! 
+🔭 Ex estudante do Cotemig 
+🌱 Formado em Tecnologia da Informação no Cotemig. 
+😎 Cursando Ciência da Computação
+
 
 <!--
 **HarrymanOfi/HarrymanOfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
