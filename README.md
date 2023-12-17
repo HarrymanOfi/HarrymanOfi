@@ -1,7 +1,8 @@
 ### Eae! Me chamo Rafael Soares! 
-🔭 Ex estudante do Cotemig 
-🌱 Formado em Tecnologia da Informação no Cotemig. 
-😎 Cursando Ciência da Computação
+- 🔭 Ex estudante do Cotemig 
+- 🎓 Formado em Tecnologia da Informação no Cotemig. 
+- 📖 Cursando Ciência da Computação
+- 📧 Você pode facilmente entrar em contato pelo e-mail: [rafaelsoares0501@gmail.com]
 
 
 <!--
